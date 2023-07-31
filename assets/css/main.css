@@ -223,6 +223,17 @@ input, select, textarea {
 
 /* Container */
 
+	.cozyspace-img,.cozyspace-message{
+		display: inline-block;
+		vertical-align:top;
+		text-align: left;
+		margin-left: 4%;
+		width: 45%;
+	}
+	.cozyspace-wrapper {
+		width: 100%;
+	}
+	
 	.container {
 		margin: 0 auto;
 		max-width: calc(100% - 50px);
